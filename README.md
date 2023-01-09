@@ -1,12 +1,12 @@
 <h1 align="center">100 Days of Code: The Complete Python Pro Bootcamp
 </h1>
 
-![100-days-of-code]()
+![100-days-of-code](https://ph-files.imgix.net/07015387-a11f-4b54-a211-be83e16ccb43.gif?auto=format)
 
 ---
-**Hi, fellow github users!**
+> **Hi, fellow github users!**
 
-What you'll see below is a log for every project I do for 100 days of Python Code. I'm following [Dr. Angela Yu's Udemy Course](https://www.udemy.com/course/100-days-of-code/)
+> What you'll see below is a log for every project I do for 100 days of Python Code. I'm following [Dr. Angela Yu's Udemy Course](https://www.udemy.com/course/100-days-of-code/)
 <h5 align="center">
 Starting from : January 9, 2023
 </h5>
