@@ -1,4 +1,4 @@
-"" "
+"""
 Write a program that adds the digits in a 2 digit number. e.g. if the input was 35, then the output should be 3 + 5 = 8
 
 Warning. Your program should work for different inputs. e.g. any two-digit number.
@@ -8,7 +8,7 @@ Example Input
 Example Output
 3 + 9 = 12
 12
-"" "
+"""
 
 # 🚨 Don't change the code below 👇
 two_digit_number = input("Type a two digit number: ")
@@ -20,4 +20,3 @@ x = int(two_digit_number[0])
 y = int(two_digit_number[1])
 
 print(x + y)
-
