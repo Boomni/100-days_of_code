@@ -20,4 +20,4 @@ names = names_string.split(", ")
 import random
 length = len(names)
 rand_name = random.randint(0, length - 1)
-print("{} is going to buy the meal today!".format(names[rand_name]))
+print("{} is going to buy the meal today!".format(names[rand_name].title()))
