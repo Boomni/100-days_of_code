@@ -1,4 +1,3 @@
-
 rock = '''
     _______
 ---'   ____)
@@ -30,7 +29,7 @@ scissors = '''
 
 import random
 
-choice = [Rock, Paper, Scissors]
+choice = [rock, paper, scissors]
 
 comp_choice = random.randint(0, 2)
 computer = choice[comp_choice]
@@ -43,19 +42,19 @@ win = "Computer chose {}, you chose {} >>> You Win!"
 loose = "Computer chose {}, you chose {} >>> You Loose!"
 
 if comp_choice == user_choice:
-    print(draw.format(computer,user))
+    print(draw.format(computer, user))
 elif comp_choice == 0 and user_choice == 2:
-    print(loose.format(computer,user))
+    print(loose.format(computer, user))
 elif comp_choice == 0 and user_choice == 1:
-    print(win.format(computer,user))
+    print(win.format(computer, user))
 elif comp_choice == 2 and user_choice == 1:
-    print(loose.format(computer,user))
+    print(loose.format(computer, user))
 elif comp_choice == 2 and user_choice == 0:
-    print(win.format(computer,user))
+    print(win.format(computer, user))
 elif comp_choice == 1 and user_choice == 2:
-    print(win.format(computer,user))
+    print(win.format(computer, user))
 elif comp_choice == 1 and user_choice == 0:
-    print(loose.format(computer,user))
+    print(loose.format(computer, user))
 
 print()
 print("Game Over!")
