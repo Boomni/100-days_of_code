@@ -19,5 +19,6 @@ Starting from : January 9, 2023
 |[Day 1:](https://github.com/boomni/100-days_of_code/Day-1)| Variables in Python | Band Name Generator| &check; |
 |[Day 2:](https://github.com/boomni/100-days_of_code/Day-2)| Understanding datatypes and how to manipulate strings | Tip Calculator | &check; |
 |[Day 3:](https://github.com/boomni/100-days_of_code/Day-3)| Control flow and logic operators | Treasure Island | &check; |
-|[Day 4:](https://github.com/boomni/100-days_of_code/Day-4)| Randomisation and Python Lists |  |  |
+|[Day 4:](https://github.com/boomni/100-days_of_code/Day-4)| Randomisation and Python Lists | Rock paper Scissors | &check; |
+|[Day 5:](https://github.com/boomni/100-days_of_code/Day-5)| For Loops, Range and Code Blocks |  | &check; |
 
