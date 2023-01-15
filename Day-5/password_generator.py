@@ -16,8 +16,8 @@ r_numbers = "".join(random.choice(numbers) for i in range(numbers_num))
 
 password_1 = r_letters + r_symbols + r_numbers
 
-print(password_1)
+print("Your Password is: ", password_1)
 
 password_2 = "".join(random.sample(password_1, len(password_1)))
 
-print(password_2)
+print("Your Password is: ", password_2)
