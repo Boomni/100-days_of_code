@@ -1,29 +1,28 @@
+# Day 2 - Understanding Data Types and How to Manipulate Strings---
 
-# Tip Calculator
-> **This is a description for the project of the day**
+## Concepts Worked on
+- Python Primitive Data Types
+- Type Error, Type Checking and Type Conversion
+- Data Types
+- Mathematical Operations in Python
+- Number Manipulation and F Strings in Python
 ---
 
-## Instructions
-> If the bill was $150.00, split between 5 people, with 12% tip.
+## Exercises
+- [Exercise 1](https://github.com/boomni/100-days_of_code/Day-2/exercise-1.py)
+  Click [here](https://replit.com/@appbrewery/day-2-1-exercise#README.md) to see the exercise instructions.
 
-> Each person should pay (150.00 / 5) * 1.12 = 33.6
+- [Exercise 2](https://github.com/boomni/100-days_of_code/Day-2/exercise-2.py)
+  Click [here](https://replit.com/@appbrewery/day-2-2-exercise#README.md) to see the exercise instructions.
 
-> Format the result to 2 decimal places = 33.60
-
-> Thus everyone's share of the total bill is $30.00 plus a $3.60 tip.
+- [Exercise 3](https://github.com/boomni/100-days_of_code/Day-2/exercise-3.py)
+  Click [here](https://replit.com/@appbrewery/day-2-3-exercise#README.md) to see the exercise instructions.
+  
 ---
-> **Tip:** There are 2 ways to round a number. You might have to do some Googling to solve this.💪
----
-### Example Input
-```
-Welcome to the tip calculator!
-What was the total bill? $124.56
-How much tip would you like to give? 10, 12, or 15? 12
-How many people to split the bill? 7
-```
----
-### Example Output
-```
-Each person should pay: $19.93
-```
+## Project
+### Tip Calculator
+#### - **Project Instruction**
+> Click [here](https://replit.com/@appbrewery/band-name-generator-start#main.py)
+#### - Project Illustration
+![Band Name Generator Illustration](https://github.com/Boomni/100-days_of_code/blob/main/images/tip_calculator.gif)
 ---
