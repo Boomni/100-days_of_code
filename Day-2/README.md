@@ -1,5 +1,6 @@
-# Day 2 - Understanding Data Types and How to Manipulate Strings---
+# Day 2 - Understanding Data Types and How to Manipulate Strings
 
+---
 ## Concepts Worked on
 - Python Primitive Data Types
 - Type Error, Type Checking and Type Conversion
@@ -22,7 +23,7 @@
 ## Project
 ### Tip Calculator
 #### - **Project Instruction**
-> Click [here](https://replit.com/@appbrewery/band-name-generator-start#main.py)
+> Click [here](https://replit.com/@appbrewery/band-name-generator-start#README.md)
 #### - Project Illustration
-![Band Name Generator Illustration](https://github.com/Boomni/100-days_of_code/blob/main/images/tip_calculator.gif)
+![Tip Calculator Illustration](https://github.com/Boomni/100-days_of_code/blob/main/images/tip_calculator.gif)
 ---
