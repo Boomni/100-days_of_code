@@ -19,8 +19,10 @@
 ---
 ## Project
 ### Password Generator
-#### - **Project Instruction**
+**Project Instruction**
 > Click [here](https://replit.com/@appbrewery/password-generator-start#README.md)
-#### - Project Illustration
+
+**Project Illustration**
 ![Password Generator Illustration](https://github.com/Boomni/100-days_of_code/blob/main/images/password-generator.gif)
+
 ---
