@@ -1,4 +1,4 @@
-Day 3 - Control Flow and Logical Operators
+# Day 3 - Control Flow and Logical Operators
 
 ---
 ## Concepts Worked on
@@ -19,6 +19,12 @@ Day 3 - Control Flow and Logical Operators
 
 - [Exercise 3](https://github.com/boomni/100-days_of_code/Day-3/exercise-3.py)
   Click [here](https://replit.com/@appbrewery/day-3-3-exercise#README.md) to see the exercise instructions.
+  
+- [Exercise 4](https://github.com/boomni/100-days_of_code/Day-3/exercise-4.py)
+  Click [here](https://replit.com/@appbrewery/day-3-4-exercise#README.md) to see the exercise instructions.
+  
+- [Exercise 5](https://github.com/boomni/100-days_of_code/Day-3/exercise-5.py)
+  Click [here](https://replit.com/@appbrewery/day-3-5-exercise#README.md) to see the exercise instructions.
   
 ---
 ## Project
