@@ -28,6 +28,10 @@
 
 ---
 
+<<<<<<< HEAD
 ![Band Name Generator Illustration](https://github.com/boomni/100-days_of_code/images/band_name_generator.gif)
+=======
+[![asciicast](https://asciinema.org/a/2rWg8FWecCsyLInAnUsjyOpQc.svg)](https://asciinema.org/a/2rWg8FWecCsyLInAnUsjyOpQc)
+>>>>>>> refs/remotes/origin/main
 
 ---
