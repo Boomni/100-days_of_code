@@ -28,6 +28,6 @@
 
 ---
 
-![Band Name Generator Illustration](https://drive.google.com/file/d/1M8lXjWGdw9jLhYZNVX5ujK9fd83M24Jk/view?usp=share_link)
+[![asciicast](https://asciinema.org/a/2rWg8FWecCsyLInAnUsjyOpQc.svg)](https://asciinema.org/a/2rWg8FWecCsyLInAnUsjyOpQc)
 
 ---
