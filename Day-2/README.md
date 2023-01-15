@@ -23,7 +23,7 @@
 ## Project
 ### Tip Calculator
 #### - **Project Instruction**
-> Click [here](https://replit.com/@appbrewery/band-name-generator-start#README.md)
+> Click [here](https://replit.com/@appbrewery/tip-calculator-start#README.md)
 #### - Project Illustration
 ![Tip Calculator Illustration](https://github.com/Boomni/100-days_of_code/blob/main/images/tip_calculator.gif)
 ---
