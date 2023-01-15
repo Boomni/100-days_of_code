@@ -1,20 +1,30 @@
+Day 3 - Control Flow and Logical Operators
 
-# Treasure Island
-> **This is a description for the project of the day**
 ---
+## Concepts Worked on
+- Control Flow with if / else and Conditional Operators
+- Modulo Operator
+- Nested if statements and elif statements
+- Multiple If Statements in Succession
+- Logical Operators
+- Treasure Island game
 
-## Instructions
-> Create an adventure game. Use conditionals such as if, else, and elif statements to lay out the logic and the story's path in your program.
+---
+## Exercises
+- [Exercise 1](https://github.com/boomni/100-days_of_code/Day-3/exercise-1.py)
+  Click [here](https://replit.com/@appbrewery/day-3-1-exercise#README.md) to see the exercise instructions.
 
-**Text Snippets from my example**
-> 'You're at a crossroad. Where do you want to go? Type "left" or "right"'
-> 'You've come to a lake. There is an island in the middle of the lake. Type "wait" to wait for a boat. Type "swim" to swim across.'
-> "You arrive at the island unharmed. There is a house with 3 doors. One red, one yellow and one blue. Which colour do you choose?"
-> "It's a room full of fire. Game Over."
-> "You found the treasure! You Win!"
-> "You enter a room of beasts. Game Over."
-> "You chose a door that doesn't exist. Game Over."
-> "You get attacked by an angry trout. Game Over."
-> "You fell into a hole. Game Over."
+- [Exercise 2](https://github.com/boomni/100-days_of_code/Day-3/exercise-2.py)
+  Click [here](https://replit.com/@appbrewery/day-3-2-exercise#README.md) to see the exercise instructions.
 
+- [Exercise 3](https://github.com/boomni/100-days_of_code/Day-3/exercise-3.py)
+  Click [here](https://replit.com/@appbrewery/day-3-3-exercise#README.md) to see the exercise instructions.
+  
+---
+## Project
+### Treasure island
+#### - **Project Instruction**
+> Click [here](https://replit.com/@appbrewery/treasure-island-start#README.md)
+#### - Project Illustration
+![Treasure island Illustration](https://github.com/Boomni/100-days_of_code/blob/main/images/treasure_island.gif)
 ---
