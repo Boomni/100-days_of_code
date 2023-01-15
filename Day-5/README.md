@@ -1,47 +1,26 @@
+# Day 5 - Python Loops
 
-# Password Generator
-> This is a description for the project of the day.
-## Instructions
-The program will ask:
-```
-How many letters would you like in your password?
-```
-```
-How many symbols would you like?
-```
-```
-How many numbers would you like?
-```
+---
+## Concepts Worked on
+- Using the for loop with Python Lists
+- For loops and the range() function
 
-### Objective
-> To take the inputs from the user to these questions and then generate a random password.
+---
+## Exercises
+- [Exercise 1](https://github.com/Boomni/100-days_of_code/tree/main/Day-1)
+  Click [here](https://replit.com/@appbrewery/day-5-1-exercise#README.md) to see the exercise instructions.
 
-> Put knowledge about Python lists and loops to use.
+- [Exercise 2](https://github.com/Boomni/100-days_of_code/tree/main/Day-2)
+  Click [here](https://replit.com/@appbrewery/day-5-2-exercise#README.md) to see the exercise instructions.
 
-
-### Easy Version (Step 1)
-Generate the password in sequence. If the user wants
-
-> 4 letters
-
-> 2 symbols and
-
-> 3 numbers
-
-then the password might look like this:
-```
-fgdx$*924
-```
-You can see that all the letters are together.
-
-All the symbols are together and all the numbers follow each other as well.
-
-### Hard Version (Step 2)
-In the advanced version of this project the final password does not follow a pattern.
-
-So the example above might look like this:
-```
-x$d24g*f9
-```
-
-And every time you generate a password, the positions of the symbols, numbers, and letters are different
+- [Exercise 3](https://github.com/Boomni/100-days_of_code/tree/main/Day-3)
+  Click [here](https://replit.com/@appbrewery/day-5-3-exercise#README.md) to see the exercise instructions.
+  
+---
+## Project
+### Password Generator
+#### - **Project Instruction**
+> Click [here](https://replit.com/@appbrewery/password-generator-start#README.md)
+#### - Project Illustration
+![Password Generator Illustration](https://github.com/Boomni/100-days_of_code/blob/main/images/password-generator.gif)
+---
