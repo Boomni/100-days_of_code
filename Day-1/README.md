@@ -1,5 +1,5 @@
 # Day 1 - Working with Variables in Python to Manage Data
-
+---
 ## Concepts Worked on
 - Printing to the Console in Python
 - String Manipulation and Code Intelligence
@@ -8,6 +8,7 @@
 - Python Variables
 - Variable Naming
 - Band Name Generator
+---
 
 ## Exercises
 - [Exercise 1](https://github.com/boomni/100-days_of_code/Day-1/exercise-1.py)
@@ -21,17 +22,12 @@
 
 - [Exercise 4](https://github.com/boomni/100-days_of_code/Day-1/exercise-4.py)
   Click [here](https://replit.com/@appbrewery/day-1-4-exercise#README.md) to see the exercise instructions.
-
+  
+---
 ## Project
 ### Band Name Generator
-  Project Instructions: [Click](https://replit.com/@phillipra/band-name-generator-start#main.py)
-
----
-
-<<<<<<< HEAD
-![Band Name Generator Illustration](https://github.com/boomni/100-days_of_code/images/band_name_generator.gif)
-=======
-[![asciicast](https://asciinema.org/a/2rWg8FWecCsyLInAnUsjyOpQc.svg)](https://asciinema.org/a/2rWg8FWecCsyLInAnUsjyOpQc)
->>>>>>> refs/remotes/origin/main
-
+#### - **Project Instruction**
+> Click [here](https://replit.com/@phillipra/band-name-generator-start#main.py)
+#### - Project Illustration
+![Band Name Generator Illustration](https://github.com/Boomni/100-days_of_code/blob/main/images/band_name_generator.gif)
 ---
