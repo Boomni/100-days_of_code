@@ -27,7 +27,7 @@
 ## Project
 ### Band Name Generator
 #### - **Project Instruction**
-> Click [here](https://replit.com/@phillipra/band-name-generator-start#main.py)
+> Click [here](https://replit.com/@appbrewery/band-name-generator-start#main.py)
 #### - Project Illustration
 ![Band Name Generator Illustration](https://github.com/Boomni/100-days_of_code/blob/main/images/band_name_generator.gif)
 ---
