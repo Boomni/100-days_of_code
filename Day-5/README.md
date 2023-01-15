@@ -7,14 +7,20 @@
 
 ---
 ## Exercises
-- [Exercise 1](https://github.com/Boomni/100-days_of_code/tree/main/Day-1)
+- [Exercise 1](https://github.com/Boomni/100-days_of_code/tree/main/Day-5/exercise_1)
   Click [here](https://replit.com/@appbrewery/day-5-1-exercise#README.md) to see the exercise instructions.
 
-- [Exercise 2](https://github.com/Boomni/100-days_of_code/tree/main/Day-2)
+- [Exercise 2](https://github.com/Boomni/100-days_of_code/tree/main/Day-5/exercise_2)
   Click [here](https://replit.com/@appbrewery/day-5-2-exercise#README.md) to see the exercise instructions.
 
-- [Exercise 3](https://github.com/Boomni/100-days_of_code/tree/main/Day-3)
+- [Exercise 3](https://github.com/Boomni/100-days_of_code/tree/main/Day-5/exercise_3)
   Click [here](https://replit.com/@appbrewery/day-5-3-exercise#README.md) to see the exercise instructions.
+
+- [Exercise 4](https://github.com/Boomni/100-days_of_code/tree/main/Day-5/exercise_4)
+  Click [here](https://replit.com/@appbrewery/day-5-4-exercise#README.md) to see the exercise instructions.
+  
+- [Exercise 5](https://github.com/Boomni/100-days_of_code/tree/main/Day-5/exercise_5)
+  Click [here](https://replit.com/@appbrewery/day-5-5-exercise#README.md) to see the exercise instructions.
   
 ---
 ## Project
