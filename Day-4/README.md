@@ -1,22 +1,30 @@
+# Day 4 - Randomisation and Python Lists
 
-# Rock Paper Scissors
-> This is a brief description of the project of the day.
-## Instructions
+---
+## Concepts Worked on
+- Random Module
+- Understanding the Offset and Appending Items to Lists
+- Index Errors and Working with Nested Lists
+- Rock Paper Scissors Game
 
-Make a rock, paper, scissors game.
+---
+## Exercises
+- [Exercise 1](https://github.com/boomni/100-days_of_code/Day-4/exercise-1.py)
+  Click [here](https://replit.com/@appbrewery/day-4-1-exercise#README.md) to see the exercise instructions.
 
-Start the game by asking the player:
-```
-> "What do you choose? Type 0 for Rock, 1 for Paper or 2 for Scissors."
-```
-From there you will need to figure out:
+- [Exercise 2](https://github.com/boomni/100-days_of_code/Day-4/exercise-2.py)
+  Click [here](https://replit.com/@appbrewery/day-4-2-exercise#README.md) to see the exercise instructions.
 
-> How you will store the user's input.
+- [Exercise 3](https://github.com/boomni/100-days_of_code/Day-4/exercise-3.py)
+  Click [here](https://replit.com/@appbrewery/day-4-3-exercise#README.md) to see the exercise instructions.
 
-> How you will generate a random choice for the computer.
+---
+## Project
+### Rock Paper Scissors
+**Project Instruction**
+> Click [here](https://replit.com/@appbrewery/rock-paper-scissors-start#README.md)
 
-> How you will compare the user's and the computer's choice to determine the winner (or a draw).
+**Project Illustration**
+![Rock Paper Scissors Illustration](https://github.com/Boomni/100-days_of_code/blob/main/images/rock_paper_scissors.gif)
 
-> And also how you will give feedback to the player.
-
-You can find the "official" rules of the game on [the World Rock Paper Scissors Association website](https://wrpsa.com/the-official-rules-of-rock-paper-scissors/).
+---
