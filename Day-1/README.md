@@ -28,6 +28,6 @@
 
 ---
 
-![Band Name Generator Illustration](https://drive.google.com/file/d/1M8lXjWGdw9jLhYZNVX5ujK9fd83M24Jk/view?usp=share_link)
+![Band Name Generator Illustration](https://github.com/boomni/100-days_of_code/images/band_name_generator.gif)
 
 ---
