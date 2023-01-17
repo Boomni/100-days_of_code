@@ -9,15 +9,9 @@ end = False
 lives = 6
 
 from hangman_art import logo
-
 print(logo)
-instructions = """
-    Instructions:
-        A word is chosen at random.
-        Make a guess of each letter, to guess the word.
-        Wrong guess, you'll be hung!.
-        Good luck! :)
-"""
+
+from hangman_instruction import instructions
 print(instructions)
 
 display = []
