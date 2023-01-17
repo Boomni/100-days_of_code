@@ -38,7 +38,7 @@ e.g. When you hit **run**, this is what should happen:
 
 ![](https://cdn.fs.teachablecdn.com/iyJTPDDRRJCB1gmdVQMS)
 
-Solution: [Exercise 1](https://github.com/boomni/100-days_of_code/Day-2/exercise-1.py)
+Solution: [Exercise 1](https://github.com/Boomni/100-days_of_code/blob/main/Day-2/exercise-1.py)
 </details>
 
 <details><summary>Exercise 2</summary><br>
@@ -79,7 +79,7 @@ e.g. When you hit **run**, this is what should happen:
 
 ![](https://cdn.fs.teachablecdn.com/wmjVjddeSmGj0QVtOUrE)
 
-Solution: [Exercise 2](https://github.com/boomni/100-days_of_code/Day-2/exercise-2.py)
+Solution: [Exercise 2](https://github.com/Boomni/100-days_of_code/blob/main/Day-2/exercise-2.py)
 </details>
 
 <details><summary>Exercise 3</summary><br>
@@ -113,7 +113,7 @@ You have 12410 days, 1768 weeks, and 408 months left.
 e.g. When you hit **run**, this is what should happen:  
 
 ![](https://cdn.fs.teachablecdn.com/RjqBViZQpyVTv7XY6cfA)
-Solution: [Exercise 3](https://github.com/boomni/100-days_of_code/Day-2/exercise-3.py)
+Solution: [Exercise 3](https://github.com/Boomni/100-days_of_code/blob/main/Day-2/exercise-3.py)
 
 </details>
 
