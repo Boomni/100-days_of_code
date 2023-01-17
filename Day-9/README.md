@@ -64,10 +64,38 @@ Solution: [Exercise 2](https://github.com/Boomni/100-days_of_code/tree/main/Day-
 
 ---
 ## Project
-### The Secret Action Program
+### Blind Action Program
+
+<details><summary>Project Description</summary><br>
+
+### Blind Auction
+
+### Instructions
+
+The objective is to write a program that will collect the names and bids of different people. The program should ask for each bidder's name and their bid individually. 
+
+```
+Welcome to the secret auction program. 
+What is your name?: Angela
+```
+```
+What's your bid?: $123
+```
+```
+Are there any other bidders? Type 'yes' or 'no'.
+yes
+
+```
+If there are other bidders, the screen will clear, so you can pass your phone to the next person. If there are no more bidders, then the program displays the name of the winner and their winning bid. 
+
+```
+The winner is Elon with a bid of $55000000000
+```
+
+</details>
 
 **Program Illustration**
 
-![The Secret Auction Program Illustration](https://github.com/Boomni/100-days_of_code/blob/main/images/secret_auction_program.gif)
+![Blind Auction Program Illustration](https://github.com/Boomni/100-days_of_code/blob/main/images/secret_auction_program.gif)
 
 ---
