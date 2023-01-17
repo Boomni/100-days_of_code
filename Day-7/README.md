@@ -10,7 +10,9 @@
 ## Project
 ### Hangman
 
-**Project Illustration**
+**Program Flowchart**
+![Program Flowchart]()
 
+**Project Illustration**
 
 ---
