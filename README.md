@@ -24,4 +24,4 @@ Starting from : January 9, 2023
 |[Day 6:](https://github.com/Boomni/100-days_of_code/tree/main/Day-6)| Python Functions & Karel | Escaping the Maze | &check; |
 |[Day 7:](https://github.com/Boomni/100-days_of_code/tree/main/Day-7)| Hangman | Hangman | &check; |
 |[Day 8:](https://github.com/Boomni/100-days_of_code/tree/main/Day-8)| Functions, Parameters and the Caeser Cipher | Caeser Cipher | &check; |
-|[Day 9:](https://github.com/Boomni/100-days_of_code/tree/main/Day-9)| Dictionaries, Nesting and Secret Actions |  |  |
+|[Day 9:](https://github.com/Boomni/100-days_of_code/tree/main/Day-9)| Dictionaries, Nesting and Secret Actions | Bind Auction | &check; |
