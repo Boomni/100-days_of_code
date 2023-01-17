@@ -23,3 +23,4 @@ Starting from : January 9, 2023
 |[Day 5:](https://github.com/Boomni/100-days_of_code/tree/main/Day-5)| For Loops, Range and Code Blocks | Password Generator | &check; |
 |[Day 6:](https://github.com/Boomni/100-days_of_code/tree/main/Day-6)| Python Functions & Karel | Escaping the Maze | &check; |
 |[Day 7:](https://github.com/Boomni/100-days_of_code/tree/main/Day-7)| Hangman | Hangman | &check; |
+|[Day 8:](https://github.com/Boomni/100-days_of_code/tree/main/Day-8)| Functions, Parameters and the Caeser Cipher | Caeser Cipher | &check; |
