@@ -11,16 +11,16 @@
 ---
 
 ## Exercises
-- [Exercise 1](https://github.com/boomni/100-days_of_code/Day-1/exercise-1.py)
+- [Exercise 1](https://github.com/Boomni/100-days_of_code/tree/main/Day-1/exercise_1.py)
   Click [here](https://replit.com/@appbrewery/day-1-1-exercise#README.md) to see the exercise instructions.
 
-- [Exercise 2](https://github.com/boomni/100-days_of_code/Day-1/exercise-2.py)
+- [Exercise 2](https://github.com/Boomni/100-days_of_code/tree/main/Day-1/exercise_2.py)
   Click [here](https://replit.com/@appbrewery/day-1-2-exercise#README.md) to see the exercise instructions.
 
-- [Exercise 3](https://github.com/boomni/100-days_of_code/Day-1/exercise-3.py)
+- [Exercise 3](https://github.com/Boomni/100-days_of_code/tree/main/Day-1/exercise_3.py)
   Click [here](https://replit.com/@appbrewery/day-1-3-exercise#README.md) to see the exercise instructions.
 
-- [Exercise 4](https://github.com/boomni/100-days_of_code/Day-1/exercise-4.py)
+- [Exercise 4](https://github.com/Boomni/100-days_of_code/tree/main/Day-1/exercise_4.py)
   Click [here](https://replit.com/@appbrewery/day-1-4-exercise#README.md) to see the exercise instructions.
   
 ---
