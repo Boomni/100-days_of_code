@@ -92,3 +92,12 @@ It's not a prime number.
 Exercise 2: [Solution](https://github.com/Boomni/100-days_of_code/tree/main/Day-8/exercise_2.py)
 </details>
 
+---
+## Project
+
+### Caeser Cipher
+
+**Project Illustration**
+![Project Illustration](https://github.com/Boomni/100-days_of_code/blob/main/images/caeser_cipher.gif)
+
+---
