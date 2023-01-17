@@ -11,7 +11,7 @@ def prime_checker(number = 0):
     if len(divisors) == 2:
         print("It's a Prime Number")
     else:
-        print("Not a Prime Number")
+        print("It's Not a Prime Number")
 
 n = int(input("Check this number: "))
 prime_checker(number=n)
