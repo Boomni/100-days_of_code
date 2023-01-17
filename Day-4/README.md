@@ -36,7 +36,7 @@ or
 ```
 Tails
 ```
-Solution: [Exercise 1](https://github.com/boomni/100-days_of_code/Day-4/exercise-1.py)
+Solution: [Exercise 1](https://github.com/Boomni/100-days_of_code/blob/main/Day-4/exercise_1.py)
 </details>
 
 <details><summary>Exercise 2</summary><br>
@@ -62,7 +62,7 @@ Note: notice that there is a space between the comma and the next name.
 ```
 Michael is going to buy the meal today!
 ```
-Solution: [Exercise 2](https://github.com/boomni/100-days_of_code/Day-4/exercise-2.py)
+Solution: [Exercise 2](https://github.com/Boomni/100-days_of_code/blob/main/Day-4/exercise_2.py)
 </details>
 
 <details><summary>Exercise 3</summary><br>
@@ -134,7 +134,7 @@ column 3, row 1 would be entered as:
 
 ![](https://cdn.fs.teachablecdn.com/5hliFjyIR96LdestyfPd)
 
-Solution: [Exercise 3](https://github.com/boomni/100-days_of_code/Day-4/exercise-3.py)
+Solution: [Exercise 3](https://github.com/Boomni/100-days_of_code/blob/main/Day-4/exercise_3.py)
 </details>
 
 ---
@@ -161,8 +161,10 @@ From there you will need to figure out:
 
 You can find the "official" rules of the game on [the World Rock Paper Scissors Association website.](https://wrpsa.com/the-official-rules-of-rock-paper-scissors/
 
-<details>
+</details>
+
 **Project Illustration**
+
 ![Rock Paper Scissors Illustration](https://github.com/Boomni/100-days_of_code/blob/main/images/rock_paper_scissors.gif)
 
 ---
